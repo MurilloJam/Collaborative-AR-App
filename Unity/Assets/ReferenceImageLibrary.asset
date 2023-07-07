@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5251568272128812308
+  m_GuidHigh: 534580052915669181
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4655966995823022207
+      m_GuidHigh: 1554281194184679094
+    m_SerializedTextureGuid:
+      m_GuidLow: 1023708553325267398
+      m_GuidHigh: 3770455899722893435
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: pexels-pixabay-87651
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5398140449433090698
+      m_GuidHigh: 15334980928713515191
+    m_SerializedTextureGuid:
+      m_GuidLow: 15349516744322318423
+      m_GuidHigh: 14957823853433807561
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Picture2
+    m_Texture: {fileID: 0}

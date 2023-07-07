@@ -1,0 +1,11 @@
+--- Planet Earth cross sections ---
+
+Select first the package to extract according to the Scriptable Rendering Pipeline you are using. 
+You will find them in the folder named "-- FILES TO EXTRACT HERE --"
+
+The is only one script used in the package : "DrawLine.cs" 
+You will find it attached to the "Target" component in the prefabs.
+It's only purpose is to link an "origin" prefab to a "target" prefab and draw a line in between.
+
+The shader for the info bubbles has been made by amplify and is editable.
+However, even without the Amplify editor, there are open properties you can modify in the material.
